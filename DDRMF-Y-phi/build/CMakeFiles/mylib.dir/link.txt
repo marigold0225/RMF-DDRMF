@@ -1,0 +1,1 @@
+/usr/bin/f95 -fPIC -O3 -DNDEBUG -O3 -shared -Wl,-soname,libmylib.so -o lib/libmylib.so "CMakeFiles/mylib.dir/lib/cmd-progress/progress.f90.o" "CMakeFiles/mylib.dir/lib/gobal-constants/gobal_constants.f90.o" "CMakeFiles/mylib.dir/lib/mean-field-theory/MFT.f90.o" CMakeFiles/mylib.dir/lib/model/choose_module.f90.o CMakeFiles/mylib.dir/lib/tov/TOV.f90.o 

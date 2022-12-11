@@ -1,0 +1,4 @@
+/home/marigold/Documents/workspace/RMF&DDRMF/RMF-Y-D-K-phi-cut/build/CMakeFiles/mylib.dir
+/home/marigold/Documents/workspace/RMF&DDRMF/RMF-Y-D-K-phi-cut/build/CMakeFiles/run.dir
+/home/marigold/Documents/workspace/RMF&DDRMF/RMF-Y-D-K-phi-cut/build/CMakeFiles/edit_cache.dir
+/home/marigold/Documents/workspace/RMF&DDRMF/RMF-Y-D-K-phi-cut/build/CMakeFiles/rebuild_cache.dir

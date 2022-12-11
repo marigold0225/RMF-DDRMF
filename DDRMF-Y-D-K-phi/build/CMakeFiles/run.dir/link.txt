@@ -1,0 +1,1 @@
+/usr/bin/f95 -O3 -DNDEBUG -O3 CMakeFiles/run.dir/src/main.f90.o -o bin/run  -Wl,-rpath,"/home/marigold/Documents/workspace/RMF&DDRMF/DDRMF-Y-D-K-phi/build/lib" lib/libmylib.so 
